@@ -16,4 +16,4 @@ Using a dataset of over 50,000 tweets about US airlines, we experimented multipl
 
 **Author's note**
 
-If you are a future/current IT1244 student and this repository has helped you in some way during the project, thank you! It is a great pleasure to help out future student along the way. Sending an invitation to my [LinkedIn](https://www.linkedin.com/in/edseltan/) would be highly welcome.
+If you are a future/current IT1244 student and this repository has helped you in some way during the project, thank you! It is a great pleasure to help out future student along the way. I would appreciate if you starred this repository, or even sending an invitation to my [LinkedIn](https://www.linkedin.com/in/edseltan/) would be highly welcome.
